@@ -1,0 +1,1 @@
+grep works similar to the find command in that it searches through files looking for something. The first paramter given to grep is what it's looking for (i.e. a string) and the 2nd paramter is where it should look.
